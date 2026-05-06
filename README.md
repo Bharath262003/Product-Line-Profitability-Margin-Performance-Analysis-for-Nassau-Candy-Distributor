@@ -31,8 +31,9 @@ The dashboard is separated into 7 core analytical modules:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd "YOUR-REPO-NAME"
+   git clone https://github.com/YOUR-USERNAME/Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor
+.git
+   cd "Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor"
    ```
 
 2. **Install the dependencies:**
@@ -47,7 +48,7 @@ The dashboard is separated into 7 core analytical modules:
 
 4. **Launch the Dashboard:**
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 ## 📸 UI Theme ("Ocean Fresh")
